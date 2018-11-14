@@ -1,0 +1,11 @@
+﻿						Sources 
+
+https://html5boilerplate.com/
+http://www.codeshttp.com/baliseh.htm
+http://glossaire.infowebmaster.fr/html/
+https://github.com/h5bp/html5-boilerplate/blob/6.1.0/dist/doc/usage.md
+
+
+
+
+
